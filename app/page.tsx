@@ -294,10 +294,11 @@ export default function HomePage() {
         <div className="connect-box">
           <h6>📞 Contact Us</h6>
 
-          <p>
-            📱 <a href="tel:+918681897335">+91 86818 97335</a><br />
-            📱 <a href="tel:+916384169175">+91 63841 69175</a>
-          </p>
+   <p>
+  📱 <a href="https://wa.me/918681897335">+91 86818 97335</a><br />
+  📱 <a href="https://wa.me/916384169175">+91 63841 69175</a>
+</p>
+
 
           <p>
             ✉️ <a href="mailto:madeshkumarmano@gmail.com">madeshkumarmano@gmail.com</a><br />
