@@ -8,7 +8,7 @@ export async function POST(request: NextRequest) {
     const { name, email, phone, message } = await request.json();
 
     await resend.emails.send({
-      from: "madeshkumarmano@gmail.com.dev",
+      from: "onboarding@resend.dev",
       to: process.env.RECIPIENT_EMAIL!,
       subject: `New Enquiry from ${name}`,
       html: `

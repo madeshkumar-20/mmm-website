@@ -85,7 +85,7 @@ export default function ServicePage() {
         </p>
         <ul>
           <li>✔ Free doorstep delivery (Pan-India)</li>
-          <li>✔ Delivery within 3–10 business days</li>
+          <li>✔ Delivery within3–10 business days</li>
           <li>✔ Express delivery for metro cities</li>
           <li>✔ Installation support available</li>
         </ul>
